@@ -1,0 +1,14 @@
+#define RED {255, 0, 0}
+#define ORANGE {255, 127, 0}
+#define YELLOW {255, 255, 0}
+#define WHITE {255, 255, 255}
+#define CHARTREUSE {127, 255, 0}
+#define GREEN {0, 255, 0}
+#define SPRINGGREEN {0, 255, 127}
+#define CYAN {0, 255, 255}
+#define DEEPSKYBLUE {0, 191, 255}
+#define OCEAN {0, 127, 255}
+#define BLUE {0, 0, 255}
+#define VIOLET {127, 0, 255}
+#define MAGENTA {255, 0, 255}
+#define RASPBERRY {255, 0, 127}
